@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2e270e352f100423",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fbd0bbef2a1f7a51",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -180,6 +164,18 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "955f46389c543859",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -201,6 +197,7 @@
   },
   "active": "34f8920a812e978a",
   "lastOpenFiles": [
+    "Notizen.md",
     "Welcome.md"
   ]
 }
